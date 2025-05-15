@@ -1,7 +1,7 @@
-I've been learning Solidworks and this is to test uploading project documents here. Unfortunately I'm unable to render projects with my student version of Solidworks so the best output I can produce outside is PNG or PDF.
+I've been learning Solidworks and this is to test uploading project documents here. This is the unrendered project output as a PNG
 
 
-My most recent learning project on Solidworks are these headphones.
+My most recent learning project on Solidworks is these headphones.
 
 
 ![Headphones assembly](https://github.com/user-attachments/assets/ed847047-a328-4b57-9e0f-13dc8eaf6f11)
